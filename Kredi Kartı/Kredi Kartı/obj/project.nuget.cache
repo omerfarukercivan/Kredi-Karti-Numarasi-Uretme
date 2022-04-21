@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4cLaSIeDXPUorJHoBD4AJcAK4GJSfSiRl47s5YCijYOdVqEd4PtJ4ydoC0Uwz+kqxzqsTloGHRreNVfIEyPAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ömer Faruk Ercivan\\Desktop\\Kredi_Kart\\Kredi Kartı\\Kredi Kartı\\Kredi Kartı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ömer Faruk Ercivan\\.nuget\\packages\\creditcardvalidator\\2.0.1\\creditcardvalidator.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

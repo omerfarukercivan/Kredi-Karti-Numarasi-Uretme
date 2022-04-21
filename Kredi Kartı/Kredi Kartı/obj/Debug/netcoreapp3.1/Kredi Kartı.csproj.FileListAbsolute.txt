@@ -1,0 +1,57 @@
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.exe
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.deps.json
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.json
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.dev.json
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.AssemblyReference.cache
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.GenerateResource.cache
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfoInputs.cache
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfo.cs
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.genruntimeconfig.cache
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.frmCreditCard.resources
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\CreditCardValidator.dll
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CopyComplete
+C:\Users\kaan_\source\repos\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.Properties.Resources.resources
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.exe
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.deps.json
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.json
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.dev.json
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\CreditCardValidator.dll
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.AssemblyReference.cache
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.frmCreditCard.resources
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.Properties.Resources.resources
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.GenerateResource.cache
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfoInputs.cache
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfo.cs
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CoreCompileInputs.cache
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CopyComplete
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\monsi\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.genruntimeconfig.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.deps.json
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.json
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.runtimeconfig.dev.json
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\bin\Debug\netcoreapp3.1\CreditCardValidator.dll
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.frmCreditCard.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi_Kartı.Properties.Resources.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfoInputs.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.AssemblyInfo.cs
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.csproj.CopyComplete
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.dll
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\Kredi_Kart\Kredi Kartı\Kredi Kartı\obj\Debug\netcoreapp3.1\Kredi Kartı.genruntimeconfig.cache
